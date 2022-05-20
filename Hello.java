@@ -5,5 +5,6 @@ public Hello{
   String name = sc.nextLine();
   System.out.println("Hi This is "+name);
   System.out.println(" From Lucknow");
+   Syste.out.println("I love this place");
     }
  }
